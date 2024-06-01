@@ -1,0 +1,15 @@
+
+Táta, datum: 2024-04-08, èas hry: 42.14 
+Táta, datum: 2024-04-10, èas hry: 8.53 
+Táta, datum: 2024-04-13, èas hry: 26.4 
+Táta, datum: 2024-04-13, èas hry: 10.03 
+Táta, datum: 2024-05-01, èas hry: 21.16 
+Mates, datum: 2024-05-01, èas hry: 14.91 
+Maty, datum: 2024-05-31, èas hry: 34.43 
+Maty, datum: 2024-05-31, èas hry: 12.16 
+Maty, datum: 2024-05-31, èas hry: 10.97 
+Maty, datum: 2024-05-31, èas hry: 13.35 
+Maty, datum: 2024-05-31, èas hry: 11.41 
+Maty, datum: 2024-05-31, èas hry: 13.05 
+Elí, datum: 2024-05-31, èas hry: 17.28 
+Elí, datum: 2024-05-31, èas hry: 112.08 
